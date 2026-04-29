@@ -16,6 +16,15 @@
       },
       "description": "Claude Code skills for TWCC / NCHC HPC cluster usage: SLURM job submission, debugging, GPU allocation, pricing, and post-job review",
       "version": "1.4.0"
+    },
+    {
+      "name": "lab-notebook-skills",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/whats2000/lab-notebook-skills.git"
+      },
+      "description": "Claude Code skills that turn a code agent into a responsible researcher: experiment isolation, lab-notebook journaling, and (future) hypothesis registration, literature review, and data provenance.",
+      "version": "0.1.0"
     }
   ]
 }
