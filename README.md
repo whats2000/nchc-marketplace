@@ -5,7 +5,7 @@ Claude Code plugin marketplace for TWCC / NCHC HPC cluster skills.
 ## Installation
 
 ```bash
-/plugin marketplace add whats2000/nchc-marketplace
+/plugin marketplace add NCHC-bio/nchc-marketplace
 /plugin install nchc-cluster-skills@nchc-marketplace
 ```
 

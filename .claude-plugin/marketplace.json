@@ -2,7 +2,7 @@
   "name": "nchc-marketplace",
   "description": "Skills for working with TWCC / NCHC HPC clusters",
   "owner": {
-    "name": "whats2000"
+    "name": "NCHC-bio"
   },
   "metadata": {
     "version": "1.0.0"
@@ -12,7 +12,7 @@
       "name": "nchc-cluster-skills",
       "source": {
         "source": "url",
-        "url": "https://github.com/whats2000/nchc-cluster-skills.git"
+        "url": "https://github.com/NCHC-bio/nchc-cluster-skills.git"
       },
       "description": "Claude Code skills for TWCC / NCHC HPC cluster usage: SLURM job submission, debugging, GPU allocation, pricing, and post-job review",
       "version": "1.4.1"
